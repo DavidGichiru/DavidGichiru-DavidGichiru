@@ -2,8 +2,8 @@
 PERSONAL PORTFOLIO
 
 <h1 align="center"> Hello, i'm David 👋👋</h1>
-h3 align="center">Data Scientist/ Python Ethuasist/ Space Lover>
-<👨‍🚀🌌😄</h3
+<h3 align="center">Data Scientist/ Python Ethuasist/ Space Lover>
+👨‍🚀🌌😄</h3
 
 ## About Me:
 I love programming, and I also love space exploration; galaxies, quasars and alot more 👨‍🚀💻🌌🪐
