@@ -14,4 +14,7 @@ I'm learning Data Science 💻📉and Machine Learning, working mainly with Pyth
 - Numpy (learning)
 - Matplotlib
 - Seaborn (learning)
-  
+
+  ## Currently Am Working On:
+  -Exoplanets Data Analysis
+  - Improving my EDA skills
