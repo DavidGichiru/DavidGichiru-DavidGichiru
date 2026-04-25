@@ -19,9 +19,17 @@ I enjoy turning data into insights.📉📉
 - Seaborn (learning)
 <P> 
  img>
- src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>    
+ src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> 
+ img>
+ src = "https://img.shield.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logocolor=white"/>
 </P>
 
   ## Currently Am Working On:
   -Exoplanets Data Analysis
   - Improving my EDA skills
+
+
+
+
+
+
