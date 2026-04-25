@@ -33,6 +33,17 @@ I enjoy turning data into insights.📉📉
   -Exoplanets Data Analysis
   - Improving my EDA skills
 
+<p align="left">
+  <img src="https://vercel.app" alt="GitHub Stats" height="192px" />
+  
+  <img src="https://vercel.app" alt="Top Languages" height="192px" />
+</p>
+
+
+<p align="left">
+  <img src="https://herokuapp.com" alt="GitHub Streak" />
+</p>
+
 
 
 
