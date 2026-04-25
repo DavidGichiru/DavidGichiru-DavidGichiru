@@ -23,6 +23,7 @@ I enjoy turning data into insights.📉📉
  img>
 [Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-%23377756.svg?style=for-the-badge&logo=seaborn&logoColor=white)
 
   ## Currently Am Working On:
   -Exoplanets Data Analysis
