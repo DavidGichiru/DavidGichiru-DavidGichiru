@@ -17,6 +17,8 @@ I enjoy turning data into insights.📉📉
 - Numpy (learning)
 - Matplotlib
 - Seaborn (learning)
+
+  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
  
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
