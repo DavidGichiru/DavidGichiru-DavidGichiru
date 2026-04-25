@@ -12,11 +12,11 @@ Python is my main tool.🐍🐍
 I enjoy turning data into insights.📉📉
 
 ## My Skills:
-- Python
-- Pandas (learning)
-- Numpy (learning)
-- Matplotlib
-- Seaborn (learning)
+- Python✅
+- Pandas✅ (learning)
+- Numpy✅ (learning)
+- Matplotlib✅
+- Seaborn✅ (learning)
 
   
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
