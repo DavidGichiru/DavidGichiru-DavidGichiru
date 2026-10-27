@@ -1,23 +1,19 @@
 # DavidGichiru-DavidGichiru
 PERSONAL PORTFOLIO
 
-<h1 align="center"> Hello, i'm David 👋👋</h1>
-<h3 align="center">Data Scientist/ Python Ethuasist/ Space Lover
-👨‍🚀🌌😄</h3
+<h1 align="center"> Hello, i'm David </h1>
+<h3 align="center">Data Scientist/
+</h3
 
 ## About Me:
-I love programming, and I also love space exploration; galaxies, quasars and alot more 👨‍🚀💻🌌🪐
-I'm learning Data Science 💻📉and Machine Learning.
-Python is my main tool.🐍🐍
-I enjoy turning data into insights.📉📉
+I'm a python developer in training focused on data science and machine learning. I enjoy exploring real world datasets, uncovering patterns and turning analysis into meaningful insights.
+Astronomy is one of my biggest interests; I enjoy working with stellar and exoplanet data while building skills in data analysis, statistics and visualization. I build practical projects with datasets containing exoplanet, stellar architecture and also Kepler light curves, doing analysis on phenomena like detection methods bias, stellar system architecture and how different variables relate.
 
-## My Skills:
-- Python✅
-- Pandas✅ (learning)
-- Numpy✅ (learning)
-- Matplotlib✅
-- Seaborn✅ (learning)
 
+## I am currently working with:
+- Python, pandas, numpy, matplotlib, seaborn, scipy, polars, SQL as my tools.
+- Exploratory Data Analysis and statistical visualization
+  
   
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
