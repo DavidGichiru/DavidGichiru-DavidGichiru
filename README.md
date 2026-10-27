@@ -26,10 +26,7 @@ Astronomy is one of my biggest interests; I enjoy working with stellar and exopl
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
   ## Currently Am Working On:
-  -Exoplanets Data Analysis
-  - Improving my EDA skills
-
-![My Stats](https://vercel.app)
+  
 
 
 
